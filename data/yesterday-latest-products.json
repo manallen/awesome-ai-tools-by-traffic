@@ -11,36 +11,36 @@
     {
       "rank": 1,
       "product_hunt_rank": 1,
-      "name": "AIVLOG",
-      "slug": "aivlog-737810",
-      "profile_url": "https://huntai.tools/products/aivlog-737810",
-      "tagline": "Your personal AI video editor for stunning vlogs",
-      "thumbnail_url": "https://images.huntai.tools/products/aivlog-737810.png",
-      "created_at": "2025-01-18T00:01:00+00:00",
+      "name": "ClawTeams",
+      "slug": "clawteams-1191609",
+      "profile_url": "https://huntai.tools/products/clawteams-1191609",
+      "tagline": "The first goal-driven, proactive AI team for e-commerce",
+      "thumbnail_url": "https://images.huntai.tools/products/clawteams-1191609.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "name": "Video",
-          "slug": "video"
+          "name": "Marketing",
+          "slug": "marketing"
         },
         {
-          "name": "Video Art",
-          "slug": "video-art"
+          "name": "Productivity",
+          "slug": "productivity"
         }
       ]
     },
     {
       "rank": 2,
-      "product_hunt_rank": 1,
-      "name": "Memories.ai",
-      "slug": "memoriesai-994028",
-      "profile_url": "https://huntai.tools/products/memoriesai-994028",
-      "tagline": "ChatGPT for your video library, with unlimited video context",
-      "thumbnail_url": "https://images.huntai.tools/products/memoriesai-994028.jpeg",
-      "created_at": "2025-07-24T23:01:00+00:00",
+      "product_hunt_rank": 2,
+      "name": "Pazi",
+      "slug": "pazi-1181193",
+      "profile_url": "https://huntai.tools/products/pazi-1181193",
+      "tagline": "Vibe code business operations",
+      "thumbnail_url": "https://images.huntai.tools/products/pazi-1181193.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
@@ -49,6 +49,34 @@
         {
           "name": "Productivity",
           "slug": "productivity"
+        },
+        {
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "product_hunt_rank": 3,
+      "name": "Goose Ads Remixer",
+      "slug": "goose-ads-remixer-1194188",
+      "profile_url": "https://huntai.tools/products/goose-ads-remixer-1194188",
+      "tagline": "Remix the ads already winning in your niche",
+      "thumbnail_url": "https://images.huntai.tools/products/goose-ads-remixer-1194188.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
         },
         {
           "name": "Video",
@@ -57,135 +85,63 @@
       ]
     },
     {
-      "rank": 3,
-      "product_hunt_rank": 1,
-      "name": "Ash ",
-      "slug": "ash-996628",
-      "profile_url": "https://huntai.tools/products/ash-996628",
-      "tagline": "The first AI designed for therapy",
-      "thumbnail_url": "https://images.huntai.tools/products/ash-996628.jpeg",
-      "created_at": "2025-07-23T23:01:00+00:00",
-      "topics": [
-        {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "name": "Health",
-          "slug": "health"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "product_hunt_rank": 1,
-      "name": "DryMerge",
-      "slug": "drymerge-774311",
-      "profile_url": "https://huntai.tools/products/drymerge-774311",
-      "tagline": "AI agents that work for you 24/7",
-      "thumbnail_url": "https://images.huntai.tools/products/drymerge-774311.png",
-      "created_at": "2025-01-15T00:01:00+00:00",
+      "product_hunt_rank": 4,
+      "name": "PgDog",
+      "slug": "pgdog-1192347",
+      "profile_url": "https://huntai.tools/products/pgdog-1192347",
+      "tagline": "Scale PostgreSQL without changing your app",
+      "thumbnail_url": "https://images.huntai.tools/products/pgdog-1192347.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "Database",
+          "slug": "database"
         },
         {
-          "name": "Productivity",
-          "slug": "productivity"
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
-          "name": "Tech",
-          "slug": "tech"
+          "name": "Open Source",
+          "slug": "open-source"
         }
       ]
     },
     {
       "rank": 5,
-      "product_hunt_rank": 1,
-      "name": "pom ",
-      "slug": "pom-781004",
-      "profile_url": "https://huntai.tools/products/pom-781004",
-      "tagline": "Scan products to avoid harmful or unwanted ingredients",
-      "thumbnail_url": "https://images.huntai.tools/products/pom-781004.png",
-      "created_at": "2025-01-14T00:01:00+00:00",
-      "topics": [
-        {
-          "name": "Android",
-          "slug": "android"
-        },
-        {
-          "name": "Health & Fitness",
-          "slug": "health-fitness"
-        },
-        {
-          "name": "iOS",
-          "slug": "ios"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "product_hunt_rank": 1,
-      "name": "CleanMyMac Business",
-      "slug": "cleanmymac-business-695647",
-      "profile_url": "https://huntai.tools/products/cleanmymac-business-695647",
-      "tagline": "Centralized Mac maintenance for small and medium teams",
-      "thumbnail_url": "https://images.huntai.tools/products/cleanmymac-business-695647.png",
-      "created_at": "2025-01-13T00:01:00+00:00",
-      "topics": [
-        {
-          "name": "Apple",
-          "slug": "apple"
-        },
-        {
-          "name": "Mac",
-          "slug": "mac"
-        },
-        {
-          "name": "SaaS",
-          "slug": "saas"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "product_hunt_rank": 1,
-      "name": "Google Whisk 2.0",
-      "slug": "google-whisk-20-955231",
-      "profile_url": "https://huntai.tools/products/google-whisk-20-955231",
-      "tagline": "Turn images into eight-second animated clips",
-      "thumbnail_url": "https://images.huntai.tools/products/google-whisk-20-955231.png",
-      "created_at": "2025-04-19T23:01:00+00:00",
+      "product_hunt_rank": 5,
+      "name": "Agentcard for companies",
+      "slug": "agentcard-for-companies-1195821",
+      "profile_url": "https://huntai.tools/products/agentcard-for-companies-1195821",
+      "tagline": "Give your agent a debit card",
+      "thumbnail_url": "https://images.huntai.tools/products/agentcard-for-companies-1195821.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "name": "Design Tools",
-          "slug": "design-tools"
+          "name": "Fintech",
+          "slug": "fintech"
         },
         {
-          "name": "Graphics & Design",
-          "slug": "graphics-design"
+          "name": "Payments",
+          "slug": "payments"
         }
       ]
     },
     {
-      "rank": 8,
-      "product_hunt_rank": 1,
-      "name": "21st.dev",
-      "slug": "21stdev-771481",
-      "profile_url": "https://huntai.tools/products/21stdev-771481",
-      "tagline": "Github + Pinterest to make your AI websites look beautiful",
-      "thumbnail_url": "https://images.huntai.tools/products/21stdev-771481.png",
-      "created_at": "2025-01-11T00:01:00+00:00",
+      "rank": 6,
+      "product_hunt_rank": 6,
+      "name": "Portero",
+      "slug": "portero-1195838",
+      "profile_url": "https://huntai.tools/products/portero-1195838",
+      "tagline": "Know exactly what's running on every port of your Mac",
+      "thumbnail_url": "https://images.huntai.tools/products/portero-1195838.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
-        {
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
         {
           "name": "Developer Tools",
           "slug": "developer-tools"
@@ -201,34 +157,14 @@
       ]
     },
     {
-      "rank": 9,
-      "product_hunt_rank": 1,
-      "name": "Checklist GG",
-      "slug": "checklist-gg-954092",
-      "profile_url": "https://huntai.tools/products/checklist-gg-954092",
-      "tagline": "AI-driven checklist management tool",
-      "thumbnail_url": "https://images.huntai.tools/products/checklist-gg-954092.jpg",
-      "created_at": "2025-04-18T23:01:00+00:00",
-      "topics": [
-        {
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "name": "Task Management",
-          "slug": "task-management"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "product_hunt_rank": 1,
-      "name": "TestSprite 1.0",
-      "slug": "testsprite-10-540582",
-      "profile_url": "https://huntai.tools/products/testsprite-10-540582",
-      "tagline": "First AI agent automating entire software testing process",
-      "thumbnail_url": "https://images.huntai.tools/products/testsprite-10-540582.png",
-      "created_at": "2025-01-08T00:01:00+00:00",
+      "rank": 7,
+      "product_hunt_rank": 7,
+      "name": "Claude Overlay",
+      "slug": "claude-overlay-1192997",
+      "profile_url": "https://huntai.tools/products/claude-overlay-1192997",
+      "tagline": "A floating Claude Code chat that sees your screen",
+      "thumbnail_url": "https://images.huntai.tools/products/claude-overlay-1192997.svg",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
@@ -239,20 +175,20 @@
           "slug": "developer-tools"
         },
         {
-          "name": "Software Engineering",
-          "slug": "software-engineering"
+          "name": "GitHub",
+          "slug": "github"
         }
       ]
     },
     {
-      "rank": 11,
-      "product_hunt_rank": 1,
-      "name": "Stitch by Google",
-      "slug": "stitch-by-google-1080997",
-      "profile_url": "https://huntai.tools/products/stitch-by-google-1080997",
-      "tagline": "Turn napkin sketches into production-ready UI in seconds.",
-      "thumbnail_url": "https://images.huntai.tools/products/stitch-by-google-1080997.jpeg",
-      "created_at": "2026-02-24T00:01:00+00:00",
+      "rank": 8,
+      "product_hunt_rank": 8,
+      "name": "Branda",
+      "slug": "branda-1195790",
+      "profile_url": "https://huntai.tools/products/branda-1195790",
+      "tagline": "Turn any domain into on-brand ads, MIT Open Source",
+      "thumbnail_url": "https://images.huntai.tools/products/branda-1195790.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
@@ -263,28 +199,104 @@
           "slug": "design-tools"
         },
         {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "product_hunt_rank": 9,
+      "name": "BugShot",
+      "slug": "bugshot-1192932",
+      "profile_url": "https://huntai.tools/products/bugshot-1192932",
+      "tagline": "Discover, fix, capture, and report bugs in one shot",
+      "thumbnail_url": "https://images.huntai.tools/products/bugshot-1192932.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
+      "topics": [
+        {
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
+        },
+        {
           "name": "Developer Tools",
           "slug": "developer-tools"
+        },
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "product_hunt_rank": 10,
+      "name": "Animos App",
+      "slug": "animos-app-1189606",
+      "profile_url": "https://huntai.tools/products/animos-app-1189606",
+      "tagline": "Showcase your designs in motion",
+      "thumbnail_url": "https://images.huntai.tools/products/animos-app-1189606.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
+      "topics": [
+        {
+          "name": "Animation",
+          "slug": "animation"
+        },
+        {
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        },
+        {
+          "name": "Video",
+          "slug": "video"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "product_hunt_rank": 11,
+      "name": "Sales Studio",
+      "slug": "sales-studio-1191610",
+      "profile_url": "https://huntai.tools/products/sales-studio-1191610",
+      "tagline": "Private studio for live demos on macOS",
+      "thumbnail_url": "https://images.huntai.tools/products/sales-studio-1191610.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "name": "Sales",
+          "slug": "sales"
         }
       ]
     },
     {
       "rank": 12,
-      "product_hunt_rank": 1,
-      "name": "Indy AI by Contra",
-      "slug": "indy-ai-by-contra-1000492",
-      "profile_url": "https://huntai.tools/products/indy-ai-by-contra-1000492",
-      "tagline": "Job boards are dead. Your network is alive",
-      "thumbnail_url": "https://images.huntai.tools/products/indy-ai-by-contra-1000492.png",
-      "created_at": "2025-08-04T23:01:00+00:00",
+      "product_hunt_rank": 12,
+      "name": "Flyout",
+      "slug": "flyout-1195072",
+      "profile_url": "https://huntai.tools/products/flyout-1195072",
+      "tagline": "Rich-text notes that fly out from your Mac's screen edge",
+      "thumbnail_url": "https://images.huntai.tools/products/flyout-1195072.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "Mac",
+          "slug": "mac"
         },
         {
-          "name": "Freelance",
-          "slug": "freelance"
+          "name": "Notes",
+          "slug": "notes"
         },
         {
           "name": "Productivity",
@@ -294,17 +306,21 @@
     },
     {
       "rank": 13,
-      "product_hunt_rank": 1,
-      "name": "Brain MAX by ClickUp",
-      "slug": "brain-max-by-clickup-992401",
-      "profile_url": "https://huntai.tools/products/brain-max-by-clickup-992401",
-      "tagline": "One AI app to rule them all: Your knowledge + Talk to Text ",
-      "thumbnail_url": "https://images.huntai.tools/products/brain-max-by-clickup-992401.png",
-      "created_at": "2025-07-15T23:01:00+00:00",
+      "product_hunt_rank": 13,
+      "name": "Breva",
+      "slug": "breva-1190996",
+      "profile_url": "https://huntai.tools/products/breva-1190996",
+      "tagline": "Turn your Mac trackpad into a gentle breathing guide",
+      "thumbnail_url": "https://images.huntai.tools/products/breva-1190996.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "Health & Fitness",
+          "slug": "health-fitness"
+        },
+        {
+          "name": "Mac",
+          "slug": "mac"
         },
         {
           "name": "Productivity",
@@ -314,169 +330,157 @@
     },
     {
       "rank": 14,
-      "product_hunt_rank": 1,
-      "name": "AnyParser Pro",
-      "slug": "anyparser-pro-716228",
-      "profile_url": "https://huntai.tools/products/anyparser-pro-716228",
-      "tagline": "Parse multi-language images and documents into JSON/markdown",
-      "thumbnail_url": "https://images.huntai.tools/products/anyparser-pro-716228.jpeg",
-      "created_at": "2025-01-06T00:01:00+00:00",
+      "product_hunt_rank": 14,
+      "name": "VocalVia",
+      "slug": "vocalvia-1194977",
+      "profile_url": "https://huntai.tools/products/vocalvia-1194977",
+      "tagline": "Turn documents and articles into editable multi-voice audio",
+      "thumbnail_url": "https://images.huntai.tools/products/vocalvia-1194977.svg",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
-        },
-        {
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "name": "SaaS",
-          "slug": "saas"
         }
       ]
     },
     {
       "rank": 15,
-      "product_hunt_rank": 1,
-      "name": "Dreamina",
-      "slug": "dreamina-747034",
-      "profile_url": "https://huntai.tools/products/dreamina-747034",
-      "tagline": "All-in-one AI creative suite for all your artistic work",
-      "thumbnail_url": "https://images.huntai.tools/products/dreamina-747034.png",
-      "created_at": "2025-01-04T00:01:00+00:00",
+      "product_hunt_rank": 15,
+      "name": "AutoShelf 2.0",
+      "slug": "autoshelf-20-1190409",
+      "profile_url": "https://huntai.tools/products/autoshelf-20-1190409",
+      "tagline": "Auto-organize files on your Mac now with MCP & CLI support",
+      "thumbnail_url": "https://images.huntai.tools/products/autoshelf-20-1190409.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Art",
-          "slug": "art"
+          "name": "Mac",
+          "slug": "mac"
         },
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
         },
         {
-          "name": "Design Tools",
-          "slug": "design-tools"
+          "name": "Productivity",
+          "slug": "productivity"
         }
       ]
     },
     {
       "rank": 16,
-      "product_hunt_rank": 1,
-      "name": "SEO Speed Test",
-      "slug": "seo-speed-test-1000402",
-      "profile_url": "https://huntai.tools/products/seo-speed-test-1000402",
-      "tagline": " Google & ChatGPT ignore slow pages, check if yours is fast!",
-      "thumbnail_url": "https://images.huntai.tools/products/seo-speed-test-1000402.jpeg",
-      "created_at": "2025-08-02T23:01:00+00:00",
+      "product_hunt_rank": 16,
+      "name": "Trump Accounts",
+      "slug": "trump-accounts-1194039",
+      "profile_url": "https://huntai.tools/products/trump-accounts-1194039",
+      "tagline": "Build long-term financial security for your child",
+      "thumbnail_url": "https://images.huntai.tools/products/trump-accounts-1194039.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Analytics",
-          "slug": "analytics"
+          "name": "Investing",
+          "slug": "investing"
         },
         {
-          "name": "Marketing",
-          "slug": "marketing"
+          "name": "Kids",
+          "slug": "kids"
         },
         {
-          "name": "SEO",
-          "slug": "seo"
+          "name": "Parenting",
+          "slug": "parenting"
         }
       ]
     },
     {
       "rank": 17,
-      "product_hunt_rank": 1,
-      "name": "Rork Max",
-      "slug": "rork-max-1083049",
-      "profile_url": "https://huntai.tools/products/rork-max-1083049",
-      "tagline": "Best AI for iOS apps. Website that replaces Xcode",
-      "thumbnail_url": "https://images.huntai.tools/products/rork-max-1083049.png",
-      "created_at": "2026-02-21T00:01:00+00:00",
+      "product_hunt_rank": 17,
+      "name": "Altersend",
+      "slug": "altersend-1193667",
+      "profile_url": "https://huntai.tools/products/altersend-1193667",
+      "tagline": "File transfer with no cloud storage, no account, no limits",
+      "thumbnail_url": "https://images.huntai.tools/products/altersend-1193667.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Augmented Reality",
-          "slug": "augmented-reality"
+          "name": "Open Source",
+          "slug": "open-source"
         },
         {
-          "name": "Games",
-          "slug": "games"
+          "name": "Privacy",
+          "slug": "privacy"
         },
         {
-          "name": "Vibe coding",
-          "slug": "vibe-coding"
+          "name": "Productivity",
+          "slug": "productivity"
         }
       ]
     },
     {
       "rank": 18,
-      "product_hunt_rank": 1,
-      "name": "Quick Mock ",
-      "slug": "quick-mock-671912",
-      "profile_url": "https://huntai.tools/products/quick-mock-671912",
-      "tagline": "Turn any job on LinkedIn into a mock interview instantly",
-      "thumbnail_url": "https://images.huntai.tools/products/quick-mock-671912.png",
-      "created_at": "2025-01-02T00:01:00+00:00",
+      "product_hunt_rank": 18,
+      "name": "ClipFlow",
+      "slug": "clipflow-1195046",
+      "profile_url": "https://huntai.tools/products/clipflow-1195046",
+      "tagline": "Small video jobs, without a timeline",
+      "thumbnail_url": "https://images.huntai.tools/products/clipflow-1195046.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "iOS",
+          "slug": "ios"
         },
         {
-          "name": "Career",
-          "slug": "career"
+          "name": "Productivity",
+          "slug": "productivity"
         },
         {
-          "name": "Chrome Extensions",
-          "slug": "chrome-extensions"
-        },
-        {
-          "name": "Hiring",
-          "slug": "hiring"
+          "name": "Video",
+          "slug": "video"
         }
       ]
     },
     {
       "rank": 19,
-      "product_hunt_rank": 1,
-      "name": "OpenArt One-Click Video Story",
-      "slug": "openart-one-click-video-story-990188",
-      "profile_url": "https://huntai.tools/products/openart-one-click-video-story-990188",
-      "tagline": "Turn anything into ready-to-post videos with one click",
-      "thumbnail_url": "https://images.huntai.tools/products/openart-one-click-video-story-990188.png",
-      "created_at": "2025-07-13T23:01:00+00:00",
+      "product_hunt_rank": 19,
+      "name": "Mojave Paint",
+      "slug": "mojave-paint-1195831",
+      "profile_url": "https://huntai.tools/products/mojave-paint-1195831",
+      "tagline": "Direct manipulation of static images on the Mac platform",
+      "thumbnail_url": "https://images.huntai.tools/products/mojave-paint-1195831.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "name": "Graphics & Design",
+          "slug": "graphics-design"
         },
         {
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "name": "Marketing",
-          "slug": "marketing"
+          "name": "Photo editing",
+          "slug": "photo-editing"
         }
       ]
     },
     {
       "rank": 20,
-      "product_hunt_rank": 1,
-      "name": "Speech in Flow",
-      "slug": "speech-in-flow-991572",
-      "profile_url": "https://huntai.tools/products/speech-in-flow-991572",
-      "tagline": "Bring your images to life with speech",
-      "thumbnail_url": "https://images.huntai.tools/products/speech-in-flow-991572.png",
-      "created_at": "2025-07-11T23:01:00+00:00",
+      "product_hunt_rank": 20,
+      "name": "Sourclip",
+      "slug": "sourclip-1193129",
+      "profile_url": "https://huntai.tools/products/sourclip-1193129",
+      "tagline": "Turn NotebookLM into a complete research workflow",
+      "thumbnail_url": "https://images.huntai.tools/products/sourclip-1193129.png",
+      "created_at": "2026-07-14T07:01:00+00:00",
       "topics": [
         {
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "name": "Photo & Video",
-          "slug": "photo-video"
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "SaaS",
+          "slug": "saas"
         }
       ]
     }
