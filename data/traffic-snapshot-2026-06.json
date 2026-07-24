@@ -1,0 +1,300 @@
+{
+  "title": "Awesome AI Tools by Traffic — June 2026 snapshot",
+  "retrieved_at": "2026-07-24",
+  "source_snapshot_month": "2026-06-01",
+  "source": {
+    "name": "HuntAI",
+    "homepage": "https://huntai.tools/",
+    "live_ranking": "https://huntai.tools/ranking",
+    "methodology": "https://huntai.tools/methodology",
+    "attribution": "Data sourced from HuntAI — Best AI Tools Ranked by Real Traffic."
+  },
+  "measurement": {
+    "field": "monthly_visits",
+    "meaning": "Estimated monthly visits to the associated domain, as published in the HuntAI traffic record.",
+    "important_limitations": [
+      "This is a domain-level estimate, not a direct measurement of individual product, feature, API, paid-seat, or active-user usage.",
+      "One domain can host several HuntAI products; this curated snapshot keeps one representative record per selected domain.",
+      "A null global_rank means the source record did not provide a usable global rank; it does not indicate zero traffic."
+    ]
+  },
+  "selection_policy": [
+    "Include HuntAI-listed products with the Artificial Intelligence topic and a positive monthly-visit estimate.",
+    "Exclude Product Hunt domains from traffic attribution.",
+    "Deduplicate on associated domain.",
+    "Exclude shared social networks, link shorteners, and broad parent/company domains whose total traffic is not a meaningful signal for a particular AI destination.",
+    "Sort the retained records by monthly_visits descending."
+  ],
+  "records": [
+    {
+      "rank": 1,
+      "product_name": "Instant Checkout in ChatGPT",
+      "product_url": "https://huntai.tools/products/instant-checkout-in-chatgpt-1021338",
+      "domain": "chatgpt.com",
+      "monthly_visits": 5382301555,
+      "global_rank": 7,
+      "workflow": "Conversational AI and agentic commerce"
+    },
+    {
+      "rank": 2,
+      "product_name": "Gemini 2.5 Pro (I/O edition)",
+      "product_url": "https://huntai.tools/products/gemini-25-pro-io-edition-962464",
+      "domain": "gemini.google.com",
+      "monthly_visits": 2859123855,
+      "global_rank": 17,
+      "workflow": "General-purpose multimodal AI"
+    },
+    {
+      "rank": 3,
+      "product_name": "Claude in Chrome",
+      "product_url": "https://huntai.tools/products/claude-in-chrome-1052376",
+      "domain": "claude.ai",
+      "monthly_visits": 946768445,
+      "global_rank": 37,
+      "workflow": "Browser-assisted knowledge work"
+    },
+    {
+      "rank": 4,
+      "product_name": "Canva Visual Suite 2.0",
+      "product_url": "https://huntai.tools/products/canva-visual-suite-20-952002",
+      "domain": "canva.com",
+      "monthly_visits": 869982097,
+      "global_rank": 32,
+      "workflow": "AI-assisted design and content"
+    },
+    {
+      "rank": 5,
+      "product_name": "DeepSeek-V3.1",
+      "product_url": "https://huntai.tools/products/deepseek-v31-1007890",
+      "domain": "chat.deepseek.com",
+      "monthly_visits": 335362669,
+      "global_rank": 133,
+      "workflow": "Reasoning and model access"
+    },
+    {
+      "rank": 6,
+      "product_name": "Grok 4.2",
+      "product_url": "https://huntai.tools/products/grok-42-1083787",
+      "domain": "grok.com",
+      "monthly_visits": 212330659,
+      "global_rank": 103,
+      "workflow": "General-purpose AI"
+    },
+    {
+      "rank": 7,
+      "product_name": "Notion 3.0",
+      "product_url": "https://huntai.tools/products/notion-30-1018669",
+      "domain": "notion.com",
+      "monthly_visits": 157238126,
+      "global_rank": 168,
+      "workflow": "AI-enabled workspace and knowledge management"
+    },
+    {
+      "rank": 8,
+      "product_name": "Copilot Audio Expressions",
+      "product_url": "https://huntai.tools/products/copilot-audio-expressions-1011675",
+      "domain": "copilot.microsoft.com",
+      "monthly_visits": 119234936,
+      "global_rank": 375,
+      "workflow": "Microsoft AI assistant"
+    },
+    {
+      "rank": 9,
+      "product_name": "Google AI Studio",
+      "product_url": "https://huntai.tools/products/google-ai-studio-1024524",
+      "domain": "aistudio.google.com",
+      "monthly_visits": 116978367,
+      "global_rank": null,
+      "workflow": "Prototyping and model development"
+    },
+    {
+      "rank": 10,
+      "product_name": "Perplexity Patents",
+      "product_url": "https://huntai.tools/products/perplexity-patents-1032816",
+      "domain": "perplexity.ai",
+      "monthly_visits": 115813489,
+      "global_rank": 370,
+      "workflow": "AI search and research"
+    },
+    {
+      "rank": 11,
+      "product_name": "Suno v5",
+      "product_url": "https://huntai.tools/products/suno-v5-1019820",
+      "domain": "suno.com",
+      "monthly_visits": 70259045,
+      "global_rank": 539,
+      "workflow": "Generative music"
+    },
+    {
+      "rank": 12,
+      "product_name": "Kimi Claw",
+      "product_url": "https://huntai.tools/products/kimi-claw-1088234",
+      "domain": "kimi.com",
+      "monthly_visits": 39492024,
+      "global_rank": 1330,
+      "workflow": "Agentic productivity"
+    },
+    {
+      "rank": 13,
+      "product_name": "Qwen3.5-Omni",
+      "product_url": "https://huntai.tools/products/qwen35-omni-1111483",
+      "domain": "qwen.ai",
+      "monthly_visits": 36508505,
+      "global_rank": 1422,
+      "workflow": "Multimodal model access"
+    },
+    {
+      "rank": 14,
+      "product_name": "Lovable Visual Edits",
+      "product_url": "https://huntai.tools/products/lovable-visual-edits-867792",
+      "domain": "lovable.dev",
+      "monthly_visits": 34373983,
+      "global_rank": 1344,
+      "workflow": "AI app building"
+    },
+    {
+      "rank": 15,
+      "product_name": "ElevenLabs Studio",
+      "product_url": "https://huntai.tools/products/elevenlabs-studio-904324",
+      "domain": "elevenlabs.io",
+      "monthly_visits": 33603969,
+      "global_rank": 1070,
+      "workflow": "Voice generation and production"
+    },
+    {
+      "rank": 16,
+      "product_name": "DeepSeek-OCR",
+      "product_url": "https://huntai.tools/products/deepseek-ocr-1028730",
+      "domain": "huggingface.co",
+      "monthly_visits": 27117684,
+      "global_rank": 1376,
+      "workflow": "Open models and developer resources"
+    },
+    {
+      "rank": 17,
+      "product_name": "Manus Scheduled Tasks 2.0",
+      "product_url": "https://huntai.tools/products/manus-scheduled-tasks-20-1150068",
+      "domain": "manus.im",
+      "monthly_visits": 23222963,
+      "global_rank": 1934,
+      "workflow": "Autonomous task execution"
+    },
+    {
+      "rank": 18,
+      "product_name": "Composer 2.5",
+      "product_url": "https://huntai.tools/products/composer-25-1150337",
+      "domain": "cursor.com",
+      "monthly_visits": 22312212,
+      "global_rank": 2132,
+      "workflow": "AI coding"
+    },
+    {
+      "rank": 19,
+      "product_name": "Duck.ai",
+      "product_url": "https://huntai.tools/products/duckai-939679",
+      "domain": "duck.ai",
+      "monthly_visits": 21516575,
+      "global_rank": 3249,
+      "workflow": "Private AI chat"
+    },
+    {
+      "rank": 20,
+      "product_name": "Adobe Firefly Video",
+      "product_url": "https://huntai.tools/products/adobe-firefly-video-872456",
+      "domain": "firefly.adobe.com",
+      "monthly_visits": 19527364,
+      "global_rank": null,
+      "workflow": "Generative image and video"
+    },
+    {
+      "rank": 21,
+      "product_name": "OpenRouter Model Fusion",
+      "product_url": "https://huntai.tools/products/openrouter-model-fusion-1115074",
+      "domain": "openrouter.ai",
+      "monthly_visits": 17256950,
+      "global_rank": 2200,
+      "workflow": "Multi-model API access"
+    },
+    {
+      "rank": 22,
+      "product_name": "Base44 Backend Platform",
+      "product_url": "https://huntai.tools/products/base44-backend-platform-1069996",
+      "domain": "base44.com",
+      "monthly_visits": 16451482,
+      "global_rank": 3417,
+      "workflow": "AI application development"
+    },
+    {
+      "rank": 23,
+      "product_name": "Tripo AI 3.0",
+      "product_url": "https://huntai.tools/products/tripo-ai-30-1012012",
+      "domain": "tripo3d.ai",
+      "monthly_visits": 15570964,
+      "global_rank": 7067,
+      "workflow": "3D asset generation"
+    },
+    {
+      "rank": 24,
+      "product_name": "Venice",
+      "product_url": "https://huntai.tools/products/venice-938891",
+      "domain": "venice.ai",
+      "monthly_visits": 13207220,
+      "global_rank": 3347,
+      "workflow": "Private AI assistant"
+    },
+    {
+      "rank": 25,
+      "product_name": "Ollama v0.19",
+      "product_url": "https://huntai.tools/products/ollama-v019-1112922",
+      "domain": "ollama.com",
+      "monthly_visits": 11583805,
+      "global_rank": 4050,
+      "workflow": "Local model runtime"
+    },
+    {
+      "rank": 26,
+      "product_name": "Genspark Custom Super Agent",
+      "product_url": "https://huntai.tools/products/genspark-custom-super-agent-1027133",
+      "domain": "genspark.ai",
+      "monthly_visits": 11499492,
+      "global_rank": 4607,
+      "workflow": "Research and automation agents"
+    },
+    {
+      "rank": 27,
+      "product_name": "Midjourney V1 Video Model",
+      "product_url": "https://huntai.tools/products/midjourney-v1-video-model-980599",
+      "domain": "midjourney.com",
+      "monthly_visits": 10040649,
+      "global_rank": 1936,
+      "workflow": "Generative visual media"
+    },
+    {
+      "rank": 28,
+      "product_name": "Instant Highlights V2 by HeyGen",
+      "product_url": "https://huntai.tools/products/instant-highlights-v2-by-heygen-1129144",
+      "domain": "heygen.com",
+      "monthly_visits": 9612813,
+      "global_rank": 3814,
+      "workflow": "AI video production"
+    },
+    {
+      "rank": 29,
+      "product_name": "Mistral Code",
+      "product_url": "https://huntai.tools/products/mistral-code-974089",
+      "domain": "mistral.ai",
+      "monthly_visits": 9251575,
+      "global_rank": 6792,
+      "workflow": "AI coding and models"
+    },
+    {
+      "rank": 30,
+      "product_name": "AI Playground",
+      "product_url": "https://huntai.tools/products/ai-playground-993427",
+      "domain": "veed.io",
+      "monthly_visits": 8592906,
+      "global_rank": 4058,
+      "workflow": "AI video editing"
+    }
+  ]
+}
